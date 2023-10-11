@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.rm2pt.generator.testgen.feature_1.0.0.jar" id="com.rm2pt.generator.testgen.feature" version="1.0.0">
-      <category name="com.rm2pt.generator.validgen.updatesite"/>
+   <feature url="features/com.rm2pt.generator.validgen.feature_1.0.0.202310111509.jar" id="com.rm2pt.generator.validgen.feature" version="1.0.0.202310111509">
+      <category name="com.rm2pt.generator.validgen"/>
    </feature>
-   <category-def name="com.rm2pt.generator.validgen.updatesite" label="Validation Script Generator"/>
+   <category-def name="com.rm2pt.generator.validgen" label="ValidGen"/>
 </site>
