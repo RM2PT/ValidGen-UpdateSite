@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 43.327 s <<< FAILURE! - in gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf
+integrationTest(gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf)  Time elapsed: 43.265 s  <<< ERROR!
+org.testfx.api.FxRobotException: the query "makeNewSale" returned no nodes.
+	at gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.testProcessSale_2(MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.java:131)
+	at gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.lambda$9(MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.java:383)
+	at gui.MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.integrationTest(MainTest_20230925095036167_ca2b8a23061f4161bf433afce57d7acf.java:446)
+

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: gui.MainTest_20230925110013793_a327b10d672e425aa8254c3ad5bbece7
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 30.601 s <<< FAILURE! - in gui.MainTest_20230925110013793_a327b10d672e425aa8254c3ad5bbece7
+integrationTest(gui.MainTest_20230925110013793_a327b10d672e425aa8254c3ad5bbece7)  Time elapsed: 30.535 s  <<< ERROR!
+java.util.concurrent.TimeoutException
+
+integrationTest(gui.MainTest_20230925110013793_a327b10d672e425aa8254c3ad5bbece7)  Time elapsed: 30.536 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+
