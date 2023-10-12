@@ -5,4 +5,5 @@
   - https://github.com/RM2PT/ValidGen-UpdateSite/releases/download/v1.0.0/ValidGen.jar
 * You can also download ValidGen installed in RM2PT here:
   - https://github.com/RM2PT/ValidGen-UpdateSite/releases/download/v1.0.0/RM2PT-win32.win32.x86_64_with_ValidGen.zip
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sM96T4UJEeo?si=iw_lCz7EQX5XHXAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen /
+* The video about this tool in here:
+  - https://youtu.be/sM96T4UJEeo?si=PswWth1-KI2evSf3
