@@ -6,4 +6,4 @@
 * You can also download ValidGen installed in RM2PT here:
   - https://github.com/RM2PT/ValidGen-UpdateSite/releases/download/v1.0.0/RM2PT-win32.win32.x86_64_with_ValidGen.zip
 * The video about this tool in here:
-  - https://youtu.be/sM96T4UJEeo?si=PswWth1-KI2evSf3
+  - https://www.youtube.com/watch?v=AP9Ymg1ewIA&t=1s
