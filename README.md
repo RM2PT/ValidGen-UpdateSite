@@ -3,7 +3,5 @@
   - https://rm2pt.com/ValidGen-UpdateSite/
 * The offline installer can be downloaded in here:
   - https://github.com/RM2PT/ValidGen-UpdateSite/releases/download/v1.0.0/ValidGen.jar
-* You can also download ValidGen installed in RM2PT here:
-  - https://github.com/RM2PT/ValidGen-UpdateSite/releases/download/v1.0.0/RM2PT-win32.win32.x86_64_with_ValidGen.zip
 * The video about this tool in here:
   - https://www.youtube.com/watch?v=AP9Ymg1ewIA
