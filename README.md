@@ -6,7 +6,7 @@
 
 # Installation
 
-Firstly, you need to Download and install RM2PT(https://rm2pt.com/) and InputGen(https://rm2pt.com/advs/inputgen/).
+Firstly, you need to Download and install RM2PT(https://rm2pt.github.io/) and InputGen(https://rm2pt.github.io/advs/inputgen/).
 
 * Click "Help" -> "Install New Software".
 
